@@ -1,5 +1,7 @@
 # BCGx GENAI Virtual Internship Program
 
+This repository contains the deliverables for the BCGx GENAI Virtual Internship Program. The internship program consists of two tasks that focus on financial data analysis and the development of an AI-powered financial chatbot. The tasks are designed to provide hands-on experience in working with financial data, analyzing key metrics, and developing AI applications for financial insights.
+
 ## Task 1: Extracting Key Financial Data and Preparing for AI-Driven Insights
 
 ### What was requested
